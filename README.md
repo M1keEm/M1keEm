@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LublinWebsite](https://github.com/M1keEm/LublinWebsite)
 
-- 🌱 I’m currently learning **JQuery**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
