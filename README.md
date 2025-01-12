@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M1keEm</h1>
 <h3 align="center">A passionate IT student and developer from Poland</h3>
 
-- 🔭 I’m currently working on [LublinWebsitev2.0](https://github.com/M1keEm/LublinWebsite)
+- 🔭 I’m currently working on [LublinWebsitev2.0](https://github.com/M1keEm/Final-PHP-project)
 
 - 🌱 I’m currently learning **React**
 
