@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LublinWebsitev2.0](https://github.com/M1keEm/Final-PHP-project)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
