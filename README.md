@@ -93,7 +93,7 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/m1keem/m1keem/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark mode" />
-<img src="https://raw.githubusercontent.com/m1keem/m1keem/output/snake-light.svg#gh-light-mode-only" alt="Snake animation light mode" />
+
+<img src="https://raw.githubusercontent.com/M1keEm/M1keEm/output/snake.svg" alt="Snake animation" />
 
 ###
