@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! I'm MikeEm and I'm a student developer from Poland.</h2>
 
+<h2 alignt="left"> Check out my projects below 👇 </h2>
+
 ###
 
 <div align="center">
