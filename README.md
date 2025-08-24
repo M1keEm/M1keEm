@@ -93,6 +93,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/M1keEm/M1keEm/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/REPO/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/REPO/output/snake-light.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/USERNAME/REPO/output/snake-dark.svg" />
+</picture>
 
 ###
