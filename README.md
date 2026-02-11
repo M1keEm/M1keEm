@@ -4,13 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M1keEm&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=M1keEm's%20GitHub%20Stats" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M1keEm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F4Ym54N243bTFmd21sZDJ2ZW42cnN3M3VwY2g1dHQ4Mnp3bDE0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.gif"  />
 
 ###
