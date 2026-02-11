@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! I'm MikeEm and I'm an IT Engineer DevOps from Poland.</h2>
 
+I'm a Computer Science graduate and DevOps Engineer passionate about building scalable cloud infrastructure and automated delivery pipelines. Experienced in Azure and modern DevOps tooling, with a strong engineering background proven by a complex, production-oriented thesis project. Focused on continuous growth and delivering real impact through technology.
+
 <h3 alignt="left"> Check out my projects below 👇 </h3>
 
 ###
